@@ -10,3 +10,8 @@ nav:
 - Home: 
     - index.md
     - Contributing: home/Contributing.md
+- Components:
+    - Components/index.md
+    - Sensor:
+        - Components/Sensors/encoder.md
+
