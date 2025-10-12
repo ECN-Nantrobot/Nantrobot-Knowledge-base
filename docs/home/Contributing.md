@@ -38,8 +38,8 @@ cd Nantrobot-Knowledge-base
 Each contribution (tutorial, fix, new section, etc.) should be in its own branch.
 
 ```bash
-git checkout main
-git pull origin main
+git checkout master
+git pull origin master
 git checkout -b feature/<short-description>
 ```
 
@@ -98,7 +98,7 @@ git push -u origin feature/add-encoder-tutorial
 ## 🧭 7️⃣ Review & Merge
 
 1. Another member (or you, if solo) reviews the PR
-2. Once approved → Merge into `main`
+2. Once approved → Merge into `master`
 3. GitHub Action will then auto-deploy the updated documentation to GitHub Pages
 
 ---
@@ -108,7 +108,7 @@ git push -u origin feature/add-encoder-tutorial
 After the PR is merged:
 
 ```bash
-git checkout main
+git checkout master
 git pull
 git branch -d feature/add-encoder-tutorial
 git push origin --delete feature/add-encoder-tutorial
@@ -132,13 +132,13 @@ If you're not a club member but want to contribute:
 
 ```mermaid
 graph TD
-    A[main branch] --> B[Create feature branch]
+    A[master branch] --> B[Create feature branch]
     B --> C[Add/Edit Content]
     C --> D[Test Locally]
     D --> E[Commit & Push]
     E --> F[Open Pull Request]
     F --> G{Review}
-    G -->|Approved| H[Merge to main]
+    G -->|Approved| H[Merge to master]
     G -->|Changes Needed| C
     H --> I[Auto-Deploy]
     I --> J[Delete Branch]
