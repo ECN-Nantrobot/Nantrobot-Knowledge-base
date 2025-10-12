@@ -1,0 +1,13 @@
+# MkDocs generated site
+/site/
+
+# Obsidian vault configuration
+/.obsidian/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+

@@ -1,0 +1,12 @@
+site_name: Nantrobot Knowledge Base
+
+repo_url: https://github.com/ECN-Nantrobot/Nantrobot-Knowledge-base
+repo_name: Nantrobot-Knowledge-base
+
+# Import theme configuration
+INHERIT: theme-config.yml
+
+nav:
+- Home: 
+    - index.md
+    - Contributing: home/Contributing.md
