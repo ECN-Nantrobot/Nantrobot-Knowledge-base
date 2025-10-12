@@ -28,13 +28,13 @@ Each knowledge base entry follows our **Understanding-First** approach:
 
 ### 🧠 Core Knowledge Areas
 
-#### 🔧 **[Components](/knowledge_base/components/)**
+#### 🔧 **[Components](/Components)**
 Deep dives into individual hardware components:
 
-- **[Sensors](/knowledge_base/components/sensors/)** - IMUs, encoders, cameras, lidars
-- **[Motors](/knowledge_base/components/motors/)** - Servo, stepper, DC motor control
-- **[Microcontrollers](/knowledge_base/components/microcontrollers/)** - Arduino, ESP32
-- **[Power Systems](/knowledge_base/components/power/)** - Batteries, regulators, power distribution
+- **Sensors** - IMUs, encoders, cameras, lidars
+- **Motors** - Servo, stepper, DC motor control
+- **Microcontrollers** - Arduino, ESP32
+- **Power Systems** - Batteries, regulators, power distribution
 
 #### ⚡ **[Electronics](/knowledge_base/electronics/)**
 Circuit design and electrical systems:
