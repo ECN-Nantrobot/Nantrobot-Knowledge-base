@@ -28,7 +28,7 @@ Each knowledge base entry follows our **Understanding-First** approach:
 
 ### 🧠 Core Knowledge Areas
 
-#### 🔧 **[Components](/Components)**
+#### 🔧 **[Components](Nantrobot-Knowledge-base/Components)**
 Deep dives into individual hardware components:
 
 - **Sensors** - IMUs, encoders, cameras, lidars

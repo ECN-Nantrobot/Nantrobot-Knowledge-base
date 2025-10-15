@@ -52,7 +52,7 @@ First it is import to make sure that the encoders works
 
 === "Code"
 
-    [:material-github: View on GitHub](https://github.com/ECN-Nantrobot/Nantrobot-Knowledge-base/blob/master/docs/Components/Sensors/encoder/encode_digital_read_test.ino){ .md-button }
+    [:material-github: View on GitHub](https://github.com/ECN-Nantrobot/Nantrobot-Knowledge-base/blob/master/docs/Components/Sensors/encoder/encode_digital_read_test/encode_digital_read_test.ino){ .md-button }
 
     ```cpp title="encode_digital_read_test.ino"
     #include <Arduino.h>
@@ -115,8 +115,7 @@ This function must be quick because it's going to be called a lot.
 
 === "Code"
 
-    [:material-github: View on GitHub](https://github.com/ECN-Nantrobot/Nantrobot-Knowledge-base/blob/master/docs/Components/Sensors/encoder/encoder_interrupt_counting.ino){ .md-button }
-
+    [:material-github: View on GitHub](https://github.com/ECN-Nantrobot/Nantrobot-Knowledge-base/blob/master/docs/Components/Sensors/encoder/encoder_interrupt_counting/encoder_interrupt_counting.ino){ .md-button }
 
     ```cpp title="encoder_interrupt_counting.ino"
     #include <Arduino.h>
@@ -205,8 +204,7 @@ To measure how fast the encoder is rotating, we can calculate **Counts Per Secon
 
 === "Code"
 
-    [:material-github: View on GitHub](https://github.com/ECN-Nantrobot/Nantrobot-Knowledge-base/blob/master/docs/Components/Sensors/encoder/encoder_speed_cps.ino){ .md-button }
-
+    [:material-github: View on GitHub](https://github.com/ECN-Nantrobot/Nantrobot-Knowledge-base/blob/master/docs/Components/Sensors/encoder/encoder_speed_cps/encoder_speed_cps.ino){ .md-button }
 
     ```cpp title="encoder_speed_cps.ino"
 
