@@ -36,7 +36,7 @@ Deep dives into individual hardware components:
 - **Microcontrollers** - Arduino, ESP32
 - **Power Systems** - Batteries, regulators, power distribution
 
-#### ⚡ **[Electronics](/knowledge_base/electronics/)**
+#### ⚡ **[Electronics](Electronics/index.md)**
 Circuit design and electrical systems:
 
 - PCB design guidelines and templates

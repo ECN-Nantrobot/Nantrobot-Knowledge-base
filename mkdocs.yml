@@ -7,11 +7,13 @@ repo_name: Nantrobot-Knowledge-base
 INHERIT: theme-config.yml
 
 nav:
-- Home: 
-    - index.md
-    - Contributing: home/Contributing.md
-- Components:
-    - Components/index.md
-    - Sensor:
-        - Components/Sensors/encoder.md
-
+  - Home:
+      - index.md
+      - Contributing: home/Contributing.md
+  - Components:
+      - Components/index.md
+      - Sensor:
+          - Components/Sensors/encoder.md
+  - Electronics:
+      - Electronics/index.md
+      - Electronics/connectors.md
