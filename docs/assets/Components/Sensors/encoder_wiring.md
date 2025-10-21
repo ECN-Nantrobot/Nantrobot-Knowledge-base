@@ -16,7 +16,7 @@ LED should light up ^6Xs1CYb4
 ## Embedded Files
 e4aa655c0ba7d0de61fa127e79e22f070e7ca1df: [[encoder_N20_motor.png]]
 
-4c15803a052ca1215ee2824294ad3d48e98a77d3: [[Pasted Image 20251012151400_962.png]]
+4c15803a052ca1215ee2824294ad3d48e98a77d3: [[esp32.png]]
 
 %%
 ## Drawing
