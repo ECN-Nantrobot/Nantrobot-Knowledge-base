@@ -24,4 +24,6 @@ When choosing components for your project:
 
 ---
 
+[⬅️ Back to Home](../index.md)
+
 *Last updated: October 2025*

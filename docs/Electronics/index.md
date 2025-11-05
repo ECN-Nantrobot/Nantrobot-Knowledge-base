@@ -11,4 +11,6 @@ Components that establish electrical connections between modules:
 
 ---
 
+[⬅️ Back to Home](../index.md)
+
 *Last updated: October 2025*

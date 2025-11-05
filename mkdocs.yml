@@ -17,3 +17,9 @@ nav:
   - Electronics:
       - Electronics/index.md
       - Electronics/connectors.md
+  - Algorithms:
+      - Algorithms/index.md
+      - Algorithms/pid.md
+  - Software:
+      - Software/index.md
+      - Software/vscode_platformio.md

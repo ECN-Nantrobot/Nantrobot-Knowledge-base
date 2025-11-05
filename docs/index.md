@@ -47,6 +47,19 @@ Physical design and mechanical interfaces:
 
 - CAD best practices and templates
 
+#### 💻 **[Algorithms](Algorithms/index.md)**
+Core software logic and control systems:
+
+- **Control loop** - PID
+- **Pathfinding** - A*, Dijkstra
+
+#### 🛠️ **[Software](Software/index.md)**
+Setup guides and tutorials for development tools:
+
+- IDE Setup
+- Version Control
+- Simulation Environments
+
 #### 📋 **[Organization](/knowledge_base/organization/)**
 Team workflows and standards:
 
