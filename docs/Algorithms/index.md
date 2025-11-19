@@ -4,9 +4,11 @@ Welcome to the Algorithms section. This area covers the core software logic, con
 
 ## 🧠 Core Topics
 
-### Control Loop
+### Control
 - **[PID Control](pid.md)** - Proportional-Integral-Derivative controller for feedback loops.
-  
+
+### Localization & State Estimation
+- **[Odometry](odometry.md)** - Estimate robot position and orientation from wheel encoders.
 
 ---
 

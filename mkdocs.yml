@@ -20,6 +20,7 @@ nav:
   - Algorithms:
       - Algorithms/index.md
       - Algorithms/pid.md
+      - Algorithms/odometry.md
   - Software:
       - Software/index.md
       - Software/vscode_platformio.md
